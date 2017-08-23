@@ -14,3 +14,4 @@ $octave-cli
 Octave:#>TAREA_2
 ```
 Luego de la ejecución de estos comandos aparecerá una imagen similar a `Prueba.png`, también disponible en este repositorio.
+Además, si desea ver este proyecto en GitHub, puede visitar: [Cálculo de la Derivada](https://github.com/IsaacNez/TAREA_CALCULO_DERIVADA)
