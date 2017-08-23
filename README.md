@@ -8,7 +8,7 @@ Diferenciación centrada.
 
 Esta tarea está implementada en GNU/Octave, por tanto para ejecutarla se ocupa la última versión de octave y el paquete symbolic instalado.
 
-El archivo `TAREA_2.M` se puede ejecutar de la siguiente manera luego de entrar a consola:
+El archivo `TAREA_2.m` se puede ejecutar de la siguiente manera luego de entrar a consola:
 ```
 $octave-cli
 Octave:#>TAREA_2
