@@ -1,4 +1,8 @@
 #!/usr/bin/octave
+#Isaac Núñez Araya
+#Agosto, 2017
+#Error total
+
 pkg load symbolic
 #--------------------------------#
 #Global variables
